@@ -1,16 +1,14 @@
 ---
 published: true
 layout: post
-title: Minnen
-description: En prosatext om ett minne
+title: En röst är en tröst
+description: En dramatisk dialog
 date: 2012-05-22T00:00:00.000Z
 tags:
   - drama
 comments: true
 share: true
 ---
-## EN RÖST ÄR EN TRÖST
-
 PERSONER:
 
 JACKY
