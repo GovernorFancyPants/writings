@@ -20,11 +20,8 @@ INT. Två vänner sitter bredvid varandra vid en bardisk. Det är tomt i lokalen
 SCEN 1
 
 JACKY: 	Hörde du att rösterna räknades idag?
-
 KRILLE: Nej, vad blev det?
-
 JACKY:	Det blev ett nej
-
 KRILLE: Ett nej? Hur är det möjligt?
 
 JACKY: 	Vad menar du? Det är ju fantastiska nyheter!
