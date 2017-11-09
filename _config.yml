@@ -23,7 +23,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "your-id"
+  id:               "writings-2"
 
 # URL
 #url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
